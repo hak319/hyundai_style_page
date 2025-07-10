@@ -31,6 +31,11 @@
 git clone https://github.com/사용자명/포트폴리오.git
 index.html 파일을 웹 브라우저로 열어 확인하세요.
 
+혹은
+
+https://hyundai-style-page.vercel.app/#
+해당 사이트에 참여하세요.
+
 주요 기능
 네비게이션 바를 통한 섹션별 부드러운 이동
 
